@@ -1,0 +1,11 @@
+﻿  MatPlotTest.cpp
+C:\Users\dcyy8\Documents\信科\程序设计实习\MatPlotTest\MatPlotTest\MatPlotTest.cpp(267,13): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+C:\Users\dcyy8\Documents\信科\程序设计实习\MatPlotTest\MatPlotTest\MatPlotTest.cpp(460,12): warning C4305: “=”: 从“int”到“bool”截断
+C:\Users\dcyy8\Documents\信科\程序设计实习\MatPlotTest\MatPlotTest\MatPlotTest.cpp(529,27): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\dcyy8\Documents\信科\程序设计实习\MatPlotTest\MatPlotTest\MatPlotTest.cpp(529,21): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\dcyy8\Documents\信科\程序设计实习\MatPlotTest\MatPlotTest\MatPlotTest.cpp(529,15): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\dcyy8\Documents\信科\程序设计实习\MatPlotTest\MatPlotTest\MatPlotTest.cpp(749,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+C:\Users\dcyy8\Documents\信科\程序设计实习\MatPlotTest\MatPlotTest\MatPlotTest.cpp(452,1): warning C4715: “network::get_first_ans”: 不是所有的控件路径都返回值
+C:\Users\dcyy8\Documents\信科\程序设计实习\MatPlotTest\MatPlotTest\MatPlotTest.cpp(689,1): warning C4715: “Ball::check_close”: 不是所有的控件路径都返回值
+  LINK : 没有找到 C:\Users\dcyy8\Documents\信科\程序设计实习\MatPlotTest\x64\Debug\MatPlotTest.exe 或上一个增量链接没有生成它；正在执行完全链接
+  MatPlotTest.vcxproj -> C:\Users\dcyy8\Documents\信科\程序设计实习\MatPlotTest\x64\Debug\MatPlotTest.exe
