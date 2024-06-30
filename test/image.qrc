@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/shark.gif</file>
+        <file>image/fish.gif</file>
+        <file>image/grass.jpg</file>
+        <file>image/fish.png</file>
+        <file>image/shark.png</file>
+        <file>image/ocean.jpg</file>
+        <file>image/whale.gif</file>
+        <file>image/grass.gif</file>
+        <file>image/home.png</file>
+        <file>image/ocean_2.gif</file>
+        <file>image/ocean_p4.gif</file>
+        <file>image/mainwindow_pic.gif</file>
+        <file>image/p1.gif</file>
+        <file>image/p3.gif</file>
+        <file>image/p4.gif</file>
+        <file>image/grass.png</file>
+        <file>image/crab.png</file>
+        <file>image/inkfish.png</file>
+        <file>image/shrimp.png</file>
+        <file>image/ocean.png</file>
+    </qresource>
+</RCC>
